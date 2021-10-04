@@ -15,3 +15,6 @@ settings.ts
 # tmp
 tmp
 out.txt
+
+# Input Files
+input/**.csproj

@@ -26,3 +26,5 @@ export async function run(command: string, slient = false) {
     console.error(err);
   };
 }
+
+
