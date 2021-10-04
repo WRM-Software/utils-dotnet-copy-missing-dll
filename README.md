@@ -9,10 +9,11 @@ Usage: index [options]
 An application for helping to copy the missing dll from .csproj files
 
 Options:
-  -m, --mock                     Enable mock mode
   -i, --csproj-paths [value...]  Array of .csproj paths
   -o, --output-dir <directory>   output directory
   -b, --base-dir <directory>     base directory of csproj file
+  -m, --mock                     Enable mock mode
+  -v, --verbose                  Enable verbose mode
   -h, --help                     display help for command
 ```
 
