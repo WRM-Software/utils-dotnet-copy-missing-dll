@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "commander": "^8.2.0",
-    "fast-xml-parser": "^3.20.3",
+    "fast-xml-parser": "^4.2.4",
     "promisify-child-process": "^4.1.1"
   }
 }
